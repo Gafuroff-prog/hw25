@@ -1,0 +1,161 @@
+
+    @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap'); 
+*{
+    font-family: "Inter", sans-serif;
+}
+body{
+    width: 1340px;
+}
+body{
+    background-image: url(img/pubgbackground.png);
+}
+.navbar{
+    background-color: black;
+    margin-top: -14px;
+    width: 1358px;
+    margin-left: -10px;
+    height: 80px;
+}
+.logo{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.lang{
+    margin-left: 850px;
+    margin-bottom: 10px;
+}
+.eng{
+    color: white;
+    margin-left: 1050px;
+    margin-top: -38px;
+    font-size: 15px;
+    font-weight: 700;
+    
+}
+.langselect{
+    margin-left: 1110px;
+    margin-top: -28px;
+    margin-bottom: 100px;
+}
+.boxplay{
+    border: 1px solid #F1A900;
+    width: 150px;
+    height: 50px;
+    background-color: #F1A900;
+    margin-left: 1150px;
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: -135px;
+    box-shadow: 10px green;
+}
+.boxplay:hover{
+    background-color: #F1A900;
+    border: 1px solid #F1A900;
+    box-shadow: 3px 3px white;
+}
+.navbar2{
+    width: 1360px;
+    background-color: #222222;
+    height: 40px;
+    margin-bottom: 10px;
+    margin-top: -87px;
+    color: white;
+    display: flex;
+    gap: 120px;
+    text-align: center;
+    margin-right: 10px;
+}
+.infoselect{
+    height: 10px;
+    margin-top: 15px;
+    margin-right:-0px;
+    margin-left: -110px;
+}
+.info{
+    margin-left: 350px;
+    margin-bottom: -10px;
+    margin-top: 9px;
+}
+.all{
+    margin-top: 10px;
+    margin-bottom: -0px;
+}
+.boxpc{
+    background-color: #F1A900;
+    width: 155px;
+    height: 50px;
+    margin-top: 193px;
+    margin-left: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+   
+    margin-top: 280px;
+    margin-left: 405px;
+    
+}
+.boxconsole{
+    width: 155px;
+    height: 50px;
+    margin-top: 193px;
+    margin-left: 100px;
+    background-color:black;
+    font-weight: 700;
+    font-size: 30px;
+   
+    text-align: center;
+    color: white;
+    margin-bottom: 10px;
+    margin-top: -80px;
+    margin-left: 755px;
+}
+.era{
+    width: 600px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: #F1A90054;
+    text-align: center;
+    font-weight: 700;
+    font-size: 36px;
+    margin-left: 360px;
+    color: white;
+}
+.eraa{
+  padding: 25px;
+  box-sizing: border-box;
+}
+.pc{
+    padding: 10px;
+    box-sizing: border-box;
+}
+.console{
+    padding: 5px;
+    box-sizing: border-box;
+}
+.footer{
+    background-color: black;
+    margin-top: 120px;
+    width: 1358px;
+    height: 80px;
+    margin-left: -10px;
+    margin-bottom: -10px;
+    gap: 50px;
+}
+.logo1{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.tg{
+   margin-left: 480px;
+   margin-bottom: 15px;
+}
+.yt{
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+.insta{
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+
